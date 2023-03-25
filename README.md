@@ -1,6 +1,14 @@
 
 # Web-Apps Full Stack Developer Homework
 
+## Running the project
+
+### Back-end
+Install the requirements via pip, and run the flask app at the default port of `5000`.
+
+### Front-end
+Install the requirements via npm/yarn and run `npnm run dev` to start the dev server on port `3000`.
+
 ## Data
 
 Included is `homework.gpkg` which is a [GeoPackage](http://www.geopackage.org/guidance/getting-started.html).
