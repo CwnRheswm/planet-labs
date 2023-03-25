@@ -1,0 +1,2 @@
+Flask==2.2
+geopandas==0.12.2
